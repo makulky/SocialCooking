@@ -1,4 +1,4 @@
-<h2><b>PARTE 1 INTERFAZ:</b><a href"https://github.com/makulky/SocialCooking-Parte1">SocialCooking-Parte1</a></h2>
+<h2><b>PARTE 1 INTERFAZ: </b></h2><a href"https://github.com/makulky/SocialCooking-Parte1">SocialCooking-Parte1</a>
 
 <h2><b>PREGUNTAS:</b></h2>
 
